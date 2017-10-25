@@ -18,5 +18,5 @@ $link = DBConnect();
 DBClose($link);
 
 
-header("Location:servico.php");
+header("Location:../view/servico.php");
 ?>

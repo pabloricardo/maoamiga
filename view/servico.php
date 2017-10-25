@@ -53,7 +53,7 @@
 
 
 	<!-- <form action=""> -->
-	<form action="adciona-servico.php" method="POST" onsubmit="mensagemConfirmacao();">
+	<form action="../model/adciona-servico.php" method="POST" onsubmit="mensagemConfirmacao();">
 		<div class="panel panel-default col-md-offset-1 col-md-10">
 			<div class="panel-heading">
 				<h1 class="panel-title text-center">Cadastro de Serviço</h1>
